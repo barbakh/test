@@ -1,0 +1,63 @@
+body {
+  background-color: #676767;
+  font-family: Courier; /* remove it */
+}
+
+input {
+  display: block;
+  padding: 10px;
+  background: #000;
+  color: white;
+  border: 1px solid #f00;
+  font-weight: bold;
+  margin-top: 10px;
+  border-radius: 5px;
+  width: 278px;
+  text-align: center;
+}
+
+.divBtn {
+  margin: auto;
+  width: 126.1px;
+}
+
+button {
+  font-weight: bold;
+  padding: 10px;
+  background: #000;
+  color: white;
+  border: 1px solid #f00;
+  border-radius: 5px;
+  margin: auto;
+  width: 126px;
+}
+
+.container {
+  border: 1px groove greenyellow;
+  background-color: greenyellow;
+  width: 300px; /* how can i make the width auto??. */
+  margin: auto;
+  border-radius: 3px;
+}
+
+.sp1,
+.sp2,
+.sp3,
+.sp4,
+.sp5,
+.sp6,
+.sp6,
+.sp7,
+.sp8,
+.sp9,
+.sp10,
+.sp11,
+.sp12 {
+  text-align: center;
+  padding: 5px;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+.sp12 {
+  overflow: auto;
+}
